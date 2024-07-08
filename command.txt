@@ -1,0 +1,5 @@
+ npm init -y
+ npm i express
+ node server.js
+ npm i -g nodemon
+ npm i multer   // multer help us to upload files in node js
